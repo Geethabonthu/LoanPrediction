@@ -48,6 +48,10 @@ The dataset contains the following features:
   - `matplotlib`
   - `xgboost`
 
+Usage:
+`use final_code_version2.ipynb file`
+
 Install the required libraries:
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib xgboost
+
