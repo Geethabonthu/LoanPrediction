@@ -2,7 +2,7 @@
 # Loan Approval Prediction
 
 ## Overview
-This project aims to predict loan approval outcomes using machine learning models trained on financial and personal attributes of loan applicants. The pipeline includes comprehensive data preprocessing, exploratory data analysis (EDA), and the use of optimized models like Decision Tree and XGBoost for accurate predictions.
+This project aims to predict loan approval outcomes using machine learning models trained on financial and personal attributes of loan applicants. The pipeline includes comprehensive data preprocessing, exploratory data analysis (EDA), and the use of optimized models like Decision Tree, Navie Bayes and XGBoost for accurate predictions.
 
 ---
 
