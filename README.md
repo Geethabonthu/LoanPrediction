@@ -16,6 +16,7 @@ This project aims to predict loan approval outcomes using machine learning model
 - **Machine Learning Models**:
   - Decision Tree Classifier (optimized using GridSearchCV).
   - XGBoost Classifier (optimized using RandomizedSearchCV).
+  - Navie Bayes Classifier
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, AUC-ROC, and ROC curve visualization.
 
 ---
@@ -49,7 +50,7 @@ The dataset contains the following features:
   - `xgboost`
 
 Usage:
-`use final_code_version2.ipynb file`
+`use final_code_version3.ipynb file`
 
 Install the required libraries:
 ```bash
